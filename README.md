@@ -1,5 +1,5 @@
-ofZyabuZyabu
-============
+splash
+======
 
 An openframeworks tiny experiment of sound reactive which is a kind of sound art. 
 In response to the sound, I'm creating a video 
