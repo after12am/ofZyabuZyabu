@@ -3,7 +3,7 @@ splash
 
 An openframeworks tiny experiment of sound reactive which is a kind of sound art. 
 In response to the sound, I'm creating a video 
-using basic primitive like a ball in this experiment. This is my first trial to know what sound reactive is.
+using basic primitive like a ball. This is my first trial to know what sound reactive is.
 
 [View Full Captured Demo](https://vimeo.com/35128266)
 
